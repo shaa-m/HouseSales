@@ -10,3 +10,6 @@ __Deliverables__
 •	Average House Sales Prices  
 •	Distribution of House Prices, Bedrooms, and Bathrooms  
 •	View vs Condition  
+
+## Tableau Dashboard Link  
+[https://public.tableau.com/views/KingCountryHouseSales_16911375350330/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link]
